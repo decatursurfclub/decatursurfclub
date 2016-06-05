@@ -15,7 +15,7 @@
 <link rel="image_src" href="wp-content/themes/SurfClub/images/logo.jpg" />
 
 <link rel='stylesheet' id='nextgen_gallery_related_images-css'  href='wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.7.1' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */

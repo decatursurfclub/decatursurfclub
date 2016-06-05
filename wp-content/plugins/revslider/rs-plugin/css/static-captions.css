@@ -288,19 +288,19 @@ img.emoji {
 <!-- wp_footer -->
 
 
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js'></script>
 <script type='text/javascript' src='wp-content/plugins/shortcodes/js/tk-all-scripts.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/plugins/shortcodes/js/tk_shortcodes.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/themify/js/waypoints.min.js?ver=4.5.2'></script>
-<script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/themify.builder.module.plugins.js?ver=2.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/themify.builder.module.plugins.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var tbLocalScript = {"isTouch":"","isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".themify_builder_content .themify_builder_row",".module_row",".builder-posts-wrap > .post.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.decatursurfclub.com\/wp-content\/themes\/parallax\/themify\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/themify.builder.script.js?ver=2.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/themify.builder.script.js'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/js/isotope.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/js/infinitescroll.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/js/backstretch.js?ver=4.5.2'></script>
@@ -313,7 +313,7 @@ var themifyScript = {"lightbox":{"lightboxSelector":".lightbox","lightboxOn":tru
 </script>
 <script type='text/javascript' src='wp-content/themes/parallax/js/themify.script.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/themify/js/themify.gallery.js?ver=4.5.2'></script>
-<script type='text/javascript' src='wp-content/themes/parallax/themify/js/lightbox.js?ver=2.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/parallax/themify/js/lightbox.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var themifyVars = {"play":"yes","autoplay":"5","speed":"500","wrap":"yes"};
@@ -326,8 +326,8 @@ var themifySectionVars = {"play":"yes","autoplay":"5","speed":"500","wrap":"yes"
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/themes/parallax/js/themify.slidersection.js?ver=4.5.2'></script>
-<script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/jquery.easy-pie-chart.js?ver=2.4.1'></script>
-<script type='text/javascript' src='wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.5'></script>
+<script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/jquery.easy-pie-chart.js'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-social-sharing/static/socialshare.js'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
 			<script type="text/javascript">
 				if ( 'object' === typeof tbLocalScript ) {
