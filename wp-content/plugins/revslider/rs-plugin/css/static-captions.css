@@ -63,15 +63,15 @@ img.emoji {
 <link rel='stylesheet' id='customizer-google-fonts2257d597efabeeca12c22946c7c18cdd-css'  href='http://fonts.googleapis.com/css?family=Pacifico%7CPacifico%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald&#038;subset=latin&#038;ver=4.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='customizer-google-fonts8c5a8325e0c7c5eff8fb4fc2a510292f-css'  href='http://fonts.googleapis.com/css?family=Pacifico%7CPacifico%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7CPacifico%7CPacifico%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald&#038;subset=latin&#038;ver=4.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-social-sharing-css'  href='wp-content/plugins/wp-social-sharing/static/socialshare.css' type='text/css' media='all' />
-<script type='text/javascript' src='state/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
-<script type='text/javascript' src='state/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
 <script type='text/javascript' src='wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.1&#038;ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.1&#038;ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/themify/js/video.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/themify/js/bigvideo.js?ver=4.5.2'></script>
 <link rel='https://api.w.org/' href='state/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="state/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="state/wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.5.2" />
 
 
@@ -288,9 +288,9 @@ img.emoji {
 <!-- wp_footer -->
 
 
-<script type='text/javascript' src='state/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='state/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='state/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='wp-content/plugins/shortcodes/js/tk-all-scripts.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/plugins/shortcodes/js/tk_shortcodes.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/themify/js/waypoints.min.js?ver=4.5.2'></script>
@@ -328,7 +328,7 @@ var themifySectionVars = {"play":"yes","autoplay":"5","speed":"500","wrap":"yes"
 <script type='text/javascript' src='wp-content/themes/parallax/js/themify.slidersection.js?ver=4.5.2'></script>
 <script type='text/javascript' src='wp-content/themes/parallax/themify/themify-builder/js/jquery.easy-pie-chart.js?ver=2.4.1'></script>
 <script type='text/javascript' src='wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.5'></script>
-<script type='text/javascript' src='state/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
 			<script type="text/javascript">
 				if ( 'object' === typeof tbLocalScript ) {
 					tbLocalScript.transitionSelectors = ".js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row, .js.csstransitions .module_row, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column";
