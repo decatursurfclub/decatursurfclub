@@ -1,0 +1,300 @@
+/*   
+Theme Name: Decatur Surf Club
+Theme URI: http://www.decatursurfclub.com
+Description: 
+Author: Decatur Surfer
+Author URI: http://www.decatursurfclub.com
+Version: 1.0
+*/
+
+body {	
+	margin: 0;
+	background-color: #a7def0;	
+	background-image: url(images/bg.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+}
+
+html, body, h1, h2, h3, p, ul, img {
+	margin: 0;
+	padding: 0;
+}
+
+div.sc_main_container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;	
+	min-height: 1152px;
+	height: auto !important;
+	height: 1152px;
+}
+
+/* [[ Header ]] */
+div.sc_header {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 934px;
+	height: 197px;
+}
+div.sc_logo {
+	position: relative;
+	float: left;
+	width: 308px;
+	height: 195px;
+	margin-left: 36px;
+	margin-top: 1px;
+}
+div.sc_hdr_home {
+	position: relative;
+	float: right;
+	margin-top: 170px;
+	margin-right: 95px;
+	font-family: lucida sans;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000;
+}
+.sc_hdr_home a {
+	text-decoration: none;
+	color: #000;
+}
+.sc_hdr_home a:hover {
+	color: #0086cd;
+}
+
+
+
+/* [[ Navigation ]] */
+ul.sc_nav {
+	position: relative;
+	/*margin-top: 1px;*/
+	margin-left: auto;
+	margin-right: auto;
+	width: 926px;
+	height: 39px;
+	font-family: lucida sans;
+	font-size: 15px;	
+	color: #fff;
+	background: #000;
+}
+ul.sc_nav li {
+	list-style: none;
+	float: left;
+	padding: 9px;
+	text-align: center;	
+}
+.sc_nav a {
+	text-decoration: none;
+	color: #fff;
+}
+.sc_nav a:hover {
+	color: #0086cd;
+}
+
+/* [[ Content ]] */
+div.sc_content_wrap {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 934px;
+	background: url(images/bg_content.png) top repeat-y;
+	min-height:800px;
+	height: auto !important;
+	height: 800px;
+}
+div.sc_content {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	width: 926px;	
+	font-family: lucida sans;
+	font-size: 12px;
+	color: #000;
+}
+.sc_content h1 {
+	font-size: 22px;
+	text-transform: uppercase;
+	margin-top: 28px;
+}
+.sc_content h2 {
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-top: 13px;
+}
+.sc_content h3, .sc_content h4 {
+	font-size: 13px;
+	text-transform: uppercase;
+	margin-top: 13px;
+}
+.sc_content p {
+	margin-top: 13px;
+	line-height: 1.5em;
+}
+.sc_content ul {
+	list-style: none;
+}
+
+div.sc_rotate {
+	position: relative;
+	width: 926px;
+}
+
+div.sc_c_left {
+	position: relative;
+	float: left;
+	width: 611px;
+	margin-left: 24px;
+}
+.sc_c_left a {
+	color: #0086cd;
+	text-decoration: none;
+}
+.sc_c_left a:hover {
+	color: #000;
+}
+div.sc_c_right {
+	position: relative;
+	float: right;
+	width: 266px;
+	margin-right: 13px;
+}
+ul.sc_blue_box {
+	position: relative;
+	width: 266px;
+	height: 182px;
+	margin-top: 13px;
+	background: url(images/bg_blue_box.jpg) top no-repeat;
+	overflow: hidden;
+}
+ul.sc_blue_box li {
+	list-style: none;
+	margin-left: 15px;
+	padding: 5px;
+}
+.sc_blue_box a {
+	text-decoration: none;
+	color: #000;
+}
+.sc_blue_box a:hover { 
+	color: #0086cd;
+}
+div.sc_facebook {
+	position: relative;
+	width: 266px;
+	height: 182px;
+	margin-top: 13px;
+}
+div.sc_latest {
+	position: relative;
+	width: 611px;
+	height: 182px;
+	background: url(images/get_the_latest.jpg) top no-repeat;
+	margin-top: 20px;
+}
+div.sc_weather {
+	position: relative; 
+	float: left;
+	margin-top: 4px;
+	margin-left: 15px;
+}
+div.sc_get_latest {
+	position: relative;
+	float: left;
+	margin-left: 35px;
+	width: 285px;
+}
+div.sc_get_latest h2 {
+	font-size: 22px;
+	color: #000;
+}
+div.sc_get_latest p {
+	margin: 10px;
+	font-weight: bold;
+}
+div.sc_gallery {
+	position: relative;
+	width: 611px;
+	height: 182px;
+	background: url(images/bg_gallery.jpg) top no-repeat;
+	margin-top: 13px;
+}
+div.sc_gallery img {
+	margin-left: 6px;
+	margin-top: 28px;
+}
+
+/*  [[  Category  ]]  */
+div.sc_list_posts {
+	position: relative;
+	width: 780px;
+	border-bottom: 1px solid #ddd;
+	clear: both;	
+}
+div.sc_post_image {
+	position: relative;
+	float: left;
+	width: 210px;
+}
+.sc_post_image img {
+	padding: 15px;
+	vertical-align: top;
+}
+div.sc_post_excerpt {
+	position: relative;
+	float: left;
+	margin-left: 20px;
+	margin-top: 12px;
+	width: 530px;
+}
+.sc_post_excerpt h1, .sc_post_excerpt h2, .sc_post_excerpt p {
+	margin-left: 0;
+	padding-left: 0;
+}
+a.st-toggle, a.st-toggle:link, a.st-toggle:visited {
+	font-family: Lucida Sans;
+	font-size: 12px;
+	color: #5c8728;
+	text-decoration: none;
+}
+a.st-toggle:hover {
+	color: #000;
+}
+
+/*  [[  Single Post  ]]  */
+div.sc_single_post {
+	position: relative;
+	float: left;
+	width: 600px;
+}
+ul.sc_archive {
+	position: relative;
+	float: right;
+	width: 200px;	
+	list-style: none;
+}
+
+/* [[ Footer ]] */
+div.sc_footer {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 934px;
+	background: url(images/bg_content_end.jpg) top no-repeat;
+	height: 70px;
+}
+div.sc_footer p {
+	padding-top: 42px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 14px;
+}
+.sc_footer a {
+	text-decoration: none;
+	color: #000;
+}
+.sc_footer a:hover {
+	color: #0086cd;
+}
+

@@ -1,0 +1,114 @@
+/* Themify Customize Styling */
+a {	
+	color: #f58634;
+	color: rgba(245,134,52,1); 
+}
+a:hover {	
+	color: #f58634;
+	color: rgba(245,134,52,1); 
+}
+#pagewrap {	
+	background-size: cover; 
+}
+#content {	
+	padding-right: 10px;
+	padding-left: 10px; 
+}
+h1 {	
+	font-family:Pacifico;
+	color: #f58634;
+	color: rgba(245,134,52,1); 
+}
+h2 {	
+	font-family:Pacifico;
+	color: #f58634;
+	color: rgba(245,134,52,1); 
+}
+h3 {	
+	font-family:Oswald;
+	color: #f58634;
+	color: rgba(245,134,52,1); 
+}
+h4 {	
+	font-family:Oswald; 
+}
+h5 {	
+	font-family:Oswald; 
+}
+h6 {	
+	font-family:Oswald; 
+}
+#headerwrap {	background-image: url(http://www.decatursurfclub.com/wp-content/uploads/2015/04/SurfClub-back11.jpg);
+	background-size: cover; 
+}
+#site-logo img {		width: 285px; 
+}
+#site-logo a {		width: 285px; 
+}
+#site-description {	
+	font-family:Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	color: rgba(255,255,255,1.00);display: none; 
+}
+#nav-bar {	
+	background-color: #52a9b3;
+	background-color: rgba(82,169,179,0.72); 
+}
+#main-nav {	
+	background-color: transparent; 
+}
+#main-nav a {	
+	font-family:Oswald;	font-size:1.4em;
+	text-transform:uppercase; 
+}
+#main-nav a:hover {	
+	background-color: transparent;
+	color: #fff688;
+	color: rgba(255,246,136,1); 
+}
+#main-nav .current_page_item a,  #main-nav .current-menu-item a {	
+	background-color: transparent;
+	color: #fff688;
+	color: rgba(255,246,136,1); 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #f58634;
+	color: rgba(245,134,52,1); 
+}
+.post-title, .post-title a {	
+	font-family:Oswald;	font-size:1.5em;
+ 
+}
+.page-title {		font-size:3em;
+
+	padding-bottom: 20px; 
+}
+.module-title {	
+	font-family:Oswald; 
+}
+#sidebar .widget {	
+	margin: 10px; 
+}
+#sidebar .widgettitle {	
+	color: #f58634;
+	color: rgba(245,134,52,1);
+	font-family:Oswald;	font-size:1.3em;
+ 
+}
+#footerwrap {	
+	background-color: #51a8b1;
+	background-color: rgba(81,168,177,1); 
+}
+#footer {	
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family:Oswald;	text-transform:uppercase; 
+}
+#footer-nav a:hover, #footer-nav li:hover > a {	
+	color: #fff688;
+	color: rgba(255,246,136,1); 
+}
+.footer-widgets .widgettitle {	
+	font-family:Oswald;	font-size:1.3em;
+ 
+}

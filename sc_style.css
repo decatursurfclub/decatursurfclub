@@ -1,0 +1,89 @@
+.border {
+	border-left: 42px solid #3366ff;
+	border-right: 103px solid #3366ff;
+}
+.txt_border {
+	border-left: 1px solid #0000cc;
+	border-right: 1px solid #0000cc;
+}
+.txt_border_left {
+	border-left: 1px solid #0000cc;
+}
+.txt_border_right {
+	border-right: 1px solid #0000cc;
+}
+.txt {
+	font-family: Verdana;
+	font-size: 9pt;
+	color: #000066;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 150%;
+}
+.title {
+	font-family: Verdana;
+	font-size: 9pt;
+	font-weight: bold;
+	color: #000066;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 150%;
+}
+._title {
+	font-family: Verdana;
+	font-size: 9pt;
+	color: #000066;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 150%;
+}
+.pool_txt {
+	font-family: Verdana;
+	font-size: 9pt;
+	color: #000066;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 150%;
+	padding-top: 10px;
+	vertical-align: text-top;
+	text-align: justify;
+}
+
+.title_txt {
+	font-family: Verdana;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #000066;
+	padding-left: 10px;
+	vertical-align: text-top;	
+}
+
+.bg_image {
+	background-image: url(pool_small.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	padding-right:5px;
+	
+}
+a {
+	font-family: Verdana;
+	font-size: 9pt;
+	color: #cc0000;
+	text-decoration: none;	
+}
+a:hover {
+	font-family: Verdana;
+	font-size: 9pt;
+	color: #3366ff;
+	text-decoration: none;			
+}
+div#snkcont {
+	position: absolute; top: 340px;
+	text-align: center;
+	width: 748px;
+}
+div.food {}
+div.drink {}
+div.grill {}
+div.candy {}
+div.icecream {}

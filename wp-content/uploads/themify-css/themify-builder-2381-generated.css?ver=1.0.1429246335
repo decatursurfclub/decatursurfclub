@@ -1,0 +1,170 @@
+/* .themify_builder_2381_row.module_row_0 Style */
+.themify_builder_2381_row.module_row_0.module_row {
+	background-color: #fff;
+	padding-top : 40px
+}
+
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text { color: #51a8b1; padding-top: 20px;  } 
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text h1 { color: #51a8b1;  } 
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text h2 { color: #51a8b1;  } 
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text h3:not(.module-title) { color: #51a8b1;  } 
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text h4 { color: #51a8b1;  } 
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text h5 { color: #51a8b1;  } 
+.themify_builder .text-2381-sub_row_0-0-1-1-0.module-text h6 { color: #51a8b1;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text { background-image: url("http://www.decatursurfclub.com/wp-content/uploads/2015/04/flower-pattern-orange.jpg"); color: #fff; text-align: center; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; margin-top: 24px; border-top-color: #51a8b1; border-top-width: 2px; border-top-style: solid; border-right-color: #51a8b1; border-right-width: 2px; border-right-style: solid; border-bottom-color: #51a8b1; border-bottom-width: 2px; border-bottom-style: solid; border-left-color: #51a8b1; border-left-width: 2px; border-left-style: solid;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text h1 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text h2 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text h3:not(.module-title) { color: #fff;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text h4 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text h5 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_0-0-1-2-0.module-text h6 { color: #fff;  } 
+.themify_builder .post-2381-sub_row_0-0-2-0-0.module-post .post { padding-top: 20px;  } 
+.themify_builder .text-2381-sub_row_0-0-2-0-1.module-text { text-align: right; padding-bottom: 20px;  } 
+.themify_builder .text-2381-sub_row_0-0-2-1-1.module-text { padding-top: 20px;  } 
+/* .themify_builder_2381_row.module_row_1 Style */
+.themify_builder_2381_row.module_row_1.module_row {
+	background-image: url(http://surf.dev6.webenabled.net/wp-content/uploads/2015/04/flower-pattern-orange.jpg);
+	background-color: #f58634;
+	text-align: center;
+	color: #ffffff;
+	padding-top : 5%;
+	padding-bottom : 5%
+}
+.themify_builder_2381_row.module_row_1.module_row a {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_1.module_row h1 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_1.module_row h2 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_1.module_row h3:not(.module-title) {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_1.module_row h4 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_1.module_row h5 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_1.module_row h6 {
+	color: #ffffff
+}
+
+.themify_builder .text-2381-1-0-1.module-text { padding-bottom: 2%;  } 
+.themify_builder .text-2381-1-0-2.module-text { text-align: center;  } 
+/* .themify_builder_2381_row.module_row_2 Style */
+.themify_builder_2381_row.module_row_2.module_row {
+	background-image: url(http://www.decatursurfclub.com/wp-content/uploads/2015/04/pool-party.jpg);
+	text-align: center;
+	color: #fff;
+	padding-top : 8%;
+	padding-bottom : 8%
+}
+.themify_builder_2381_row.module_row_2.module_row a {
+	
+}
+.themify_builder_2381_row.module_row_2.module_row h1 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_2.module_row h2 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_2.module_row h3:not(.module-title) {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_2.module_row h4 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_2.module_row h5 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_2.module_row h6 {
+	color: #fff
+}
+
+.themify_builder .text-2381-2-0-1.module-text { background-color: #f57231; background-color: rgba(245,114,49, 0.87); color: #fff; padding-top: 5%; padding-bottom: 5%;  } 
+.themify_builder .text-2381-2-0-1.module-text h1 { color: #fff;  } 
+.themify_builder .text-2381-2-0-1.module-text h2 { color: #fff;  } 
+.themify_builder .text-2381-2-0-1.module-text h3:not(.module-title) { color: #fff;  } 
+.themify_builder .text-2381-2-0-1.module-text h4 { color: #fff;  } 
+.themify_builder .text-2381-2-0-1.module-text h5 { color: #fff;  } 
+.themify_builder .text-2381-2-0-1.module-text h6 { color: #fff;  } 
+/* .themify_builder_2381_row.module_row_3 Style */
+.themify_builder_2381_row.module_row_3.module_row {
+	background-image: url(http://www.decatursurfclub.com/wp-content/uploads/2015/04/flower-pattern-teal.jpg);
+	background-color: #bdd5df;
+	text-align: center;
+	color: #ffffff;
+	padding-top : 5%;
+	padding-bottom : 5%
+}
+.themify_builder_2381_row.module_row_3.module_row a {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_3.module_row h1 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_3.module_row h2 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_3.module_row h3:not(.module-title) {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_3.module_row h4 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_3.module_row h5 {
+	color: #ffffff
+}
+.themify_builder_2381_row.module_row_3.module_row h6 {
+	color: #ffffff
+}
+
+.themify_builder .text-2381-3-0-1.module-text { padding-bottom: 2%;  } 
+.themify_builder .text-2381-3-0-2.module-text { text-align: center;  } 
+/* .themify_builder_2381_row.module_row_4 Style */
+.themify_builder_2381_row.module_row_4.module_row {
+	background-image: url(http://www.decatursurfclub.com/wp-content/uploads/2015/04/Old-Paint-Logo-Mockups-2.jpg);
+	text-align: center;
+	color: #fff;
+	padding-top : 8%;
+	padding-bottom : 8%
+}
+.themify_builder_2381_row.module_row_4.module_row a {
+	
+}
+.themify_builder_2381_row.module_row_4.module_row h1 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_4.module_row h2 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_4.module_row h3:not(.module-title) {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_4.module_row h4 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_4.module_row h5 {
+	color: #fff
+}
+.themify_builder_2381_row.module_row_4.module_row h6 {
+	color: #fff
+}
+
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text { background-color: #000000; background-color: rgba(0,0,0, 0.67); color: #fff; padding-top: 5%; padding-right: 5%; padding-bottom: 5%; padding-left: 5%;  } 
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text h1 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text h2 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text h3:not(.module-title) { color: #fff;  } 
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text h4 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text h5 { color: #fff;  } 
+.themify_builder .text-2381-sub_row_4-0-1-1-0.module-text h6 { color: #fff;  } 
+/* .themify_builder_2381_row.module_row_5 Style */
+.themify_builder_2381_row.module_row_5.module_row {
+	background-color: #fff;
+	padding-top : 30px
+}
+
+.themify_builder .text-2381-sub_row_5-0-1-1-1.module-text { text-align: center; padding-top: 20px;  } 
