@@ -18,8 +18,8 @@
               ref.parentNode.insertBefore(js, ref);
             }(document));
           </script>
-          <link rel="alternate" type="application/rss+xml" title="Decatur Surf Club &raquo; Feed" href="http://www.decatursurfclub.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Decatur Surf Club &raquo; Comments Feed" href="http://www.decatursurfclub.com/comments/feed/" />
+          <link rel="alternate" type="application/rss+xml" title="Decatur Surf Club &raquo; Feed" href="state/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Decatur Surf Club &raquo; Comments Feed" href="state/comments/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.decatursurfclub.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
 			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -38,46 +38,46 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='bootstrap-shortcodes-css'  href='http://www.decatursurfclub.com/wp-content/plugins/shortcodes/css/bootstrap-shortcodes.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-builder-style-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/themify-builder/css/themify-builder-style.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='awesome-weather-css'  href='http://www.decatursurfclub.com/wp-content/plugins/awesome-weather/awesome-weather.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-shortcodes-css'  href='state/wp-content/plugins/shortcodes/css/bootstrap-shortcodes.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-style-css'  href='state/wp-content/themes/parallax/themify/themify-builder/css/themify-builder-style.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-weather-css'  href='state/wp-content/plugins/awesome-weather/awesome-weather.css?ver=1.0.1429246335' type='text/css' media='all' />
 <style id='awesome-weather-inline-css' type='text/css'>
 .awesome-weather-wrap { font-family: 'Open Sans', sans-serif;  font-weight: 400; font-size: 14px; line-height: 14px; } 
 </style>
 <link rel='stylesheet' id='opensans-googlefont-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300&#038;ver=4.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-settings-css'  href='http://www.decatursurfclub.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.1.1&#038;ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://www.decatursurfclub.com/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.1.1&#038;ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-static-css'  href='http://www.decatursurfclub.com/wp-content/plugins/revslider/rs-plugin/css/static-captions.css?rev=4.1.1&#038;ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='tk-shortcodes-css'  href='http://www.decatursurfclub.com/wp-content/plugins/shortcodes/css/tk-shortcodes.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/style.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-framework-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/css/themify.framework.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-animate-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/themify-builder/css/animate.min.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='theme-style-css'  href='http://www.decatursurfclub.com/wp-content/themes/surfclub/style.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-media-queries-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/media-queries.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='state/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.1.1&#038;ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='state/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.1.1&#038;ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-static-css'  href='state/wp-content/plugins/revslider/rs-plugin/css/static-captions.css?rev=4.1.1&#038;ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='tk-shortcodes-css'  href='state/wp-content/plugins/shortcodes/css/tk-shortcodes.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='state/wp-content/themes/parallax/style.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-framework-css'  href='state/wp-content/themes/parallax/themify/css/themify.framework.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-animate-css'  href='state/wp-content/themes/parallax/themify/themify-builder/css/animate.min.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='state/wp-content/themes/surfclub/style.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-media-queries-css'  href='state/wp-content/themes/parallax/media-queries.css?ver=1.0.1429246335' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Crete+Round%7CVidaloka%7CAlice&#038;ver=4.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-icons-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/themify-icons/themify-icons.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/css/lightbox.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-skin-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/skins/blue/style.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-icon-font-css'  href='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/fontawesome/css/font-awesome.min.css?ver=1.0.1429246335' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-customize-css'  href='http://www.decatursurfclub.com/wp-content/uploads/themify-customizer.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icons-css'  href='state/wp-content/themes/parallax/themify/themify-icons/themify-icons.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='state/wp-content/themes/parallax/themify/css/lightbox.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-skin-css'  href='state/wp-content/themes/parallax/skins/blue/style.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icon-font-css'  href='state/wp-content/themes/parallax/themify/fontawesome/css/font-awesome.min.css?ver=1.0.1429246335' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-customize-css'  href='state/wp-content/uploads/themify-customizer.css?ver=1.0.1429246335' type='text/css' media='all' />
 <link rel='stylesheet' id='customizer-google-fonts2257d597efabeeca12c22946c7c18cdd-css'  href='http://fonts.googleapis.com/css?family=Pacifico%7CPacifico%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald&#038;subset=latin&#038;ver=4.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='customizer-google-fonts8c5a8325e0c7c5eff8fb4fc2a510292f-css'  href='http://fonts.googleapis.com/css?family=Pacifico%7CPacifico%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7CPacifico%7CPacifico%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald%7COswald&#038;subset=latin&#038;ver=4.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-social-sharing-css'  href='http://www.decatursurfclub.com/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.0.1429246335' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.1&#038;ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.1&#038;ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/js/video.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/js/bigvideo.js?ver=4.5.2'></script>
-<link rel='https://api.w.org/' href='http://www.decatursurfclub.com/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.decatursurfclub.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.decatursurfclub.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='stylesheet' id='wp-social-sharing-css'  href='state/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.0.1429246335' type='text/css' media='all' />
+<script type='text/javascript' src='state/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='state/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='state/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.1&#038;ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.1&#038;ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/js/video.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/js/bigvideo.js?ver=4.5.2'></script>
+<link rel='https://api.w.org/' href='state/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="state/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="state/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.5.2" />
 
 
 
 
-<link href="http://www.decatursurfclub.com/wp-content/uploads/2015/04/favicon-1.ico" rel="shortcut icon" /> 
+<link href="state/wp-content/uploads/2015/04/favicon-1.ico" rel="shortcut icon" /> 
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -100,12 +100,12 @@ img.emoji {
 </script>
 	<!-- media-queries.js -->
 	<!--[if lt IE 9]>
-		<script src="http://www.decatursurfclub.com/wp-content/themes/parallax/js/respond.js"></script>
+		<script src="state/wp-content/themes/parallax/js/respond.js"></script>
 	<![endif]-->
 
 	<!-- jquery-extra-selectors.js -->
 	<!--[if lt IE 9]>
-		<script src="http://www.decatursurfclub.com/wp-content/themes/parallax/js/jquery-extra-selectors.js"></script>
+		<script src="state/wp-content/themes/parallax/js/jquery-extra-selectors.js"></script>
 	<![endif]-->
 	
 	<!-- html5.js -->
@@ -145,11 +145,11 @@ img.emoji {
 <div id="pagewrap" class="hfeed site">
 
 	
-		<div id="headerwrap" data-bg='http://www.decatursurfclub.com/wp-content/uploads/2015/04/SurfClub-back11.jpg' class='fullcover ' >
+		<div id="headerwrap" data-bg='state/wp-content/uploads/2015/04/SurfClub-back11.jpg' class='fullcover ' >
 
 						<header id="header" class="pagewidth">
 								<hgroup>
-					<div id="site-logo"><a href="http://www.decatursurfclub.com" title="Decatur Surf Club"><img src="http://www.decatursurfclub.com/wp-content/uploads/2015/04/Decatur_Surf_Club_logo.png" alt="Decatur Surf Club" title="Decatur Surf Club" /><span style="display: none;">Decatur Surf Club</span></a></div>		
+					<div id="site-logo"><a href="state" title="Decatur Surf Club"><img src="state/wp-content/uploads/2015/04/Decatur_Surf_Club_logo.png" alt="Decatur Surf Club" title="Decatur Surf Club" /><span style="display: none;">Decatur Surf Club</span></a></div>		
 																	<div id="site-description" class="site-description"><span>Since 1959</span></div>
 									
 					<div class="social-widget">
@@ -160,12 +160,12 @@ img.emoji {
 							<!-- /themify-link-item --></ul></div><div id="text-1005" class="widget widget_text">			<div class="textwidget"></div>
 		</div>
 													<div class="rss">
-								<a href="http://www.decatursurfclub.com/feed/"></a>
+								<a href="state/feed/"></a>
 							</div>
 											</div>
 					<!-- /.social-widget -->
 						
-											<form method="get" id="searchform" action="http://www.decatursurfclub.com/">
+											<form method="get" id="searchform" action="state/">
 	<i class="icon-search"></i>
 	<input type="text" name="s" id="s"  placeholder="Search">
 </form>					
@@ -174,13 +174,13 @@ img.emoji {
 				<div id="nav-bar" class="clearfix">
 					<nav>
 						<div id="menu-icon" class="mobile-button"><span>Menu</span></div>
-						<ul id="main-nav" class="main-nav pagewidth"><li id="menu-item-2554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2554"><a href="http://www.decatursurfclub.com/#welcome">Welcome</a></li>
-<li id="menu-item-2550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2550"><a href="http://www.decatursurfclub.com/membership/">Membership</a></li>
-<li id="menu-item-2551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2551"><a href="http://www.decatursurfclub.com/#pools">Pools &#038; Waterslides</a></li>
-<li id="menu-item-2552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2552"><a href="http://www.decatursurfclub.com/#parties">Parties</a></li>
-<li id="menu-item-2553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2553"><a href="http://www.decatursurfclub.com/#swim-lessons">Swim Lessons</a></li>
-<li id="menu-item-2563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2563"><a href="http://www.decatursurfclub.com/#grill">Grill</a></li>
-<li id="menu-item-2555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2555"><a href="http://www.decatursurfclub.com/#contact">Contact</a></li>
+						<ul id="main-nav" class="main-nav pagewidth"><li id="menu-item-2554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2554"><a href="state/#welcome">Welcome</a></li>
+<li id="menu-item-2550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2550"><a href="state/membership/">Membership</a></li>
+<li id="menu-item-2551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2551"><a href="state/#pools">Pools &#038; Waterslides</a></li>
+<li id="menu-item-2552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2552"><a href="state/#parties">Parties</a></li>
+<li id="menu-item-2553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2553"><a href="state/#swim-lessons">Swim Lessons</a></li>
+<li id="menu-item-2563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2563"><a href="state/#grill">Grill</a></li>
+<li id="menu-item-2555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2555"><a href="state/#contact">Contact</a></li>
 </ul>						<!-- /#main-nav --> 
 					</nav>
 				</div>
@@ -213,7 +213,7 @@ img.emoji {
 						
 			<div class="page-content entry-content" itemprop="articleBody">
 
-									<figure class="post-image"><meta itemprop="image" content="http://www.decatursurfclub.com/wp-content/uploads/2015/04/Decatur_Surf_Club_logo-150x150.png" /><img src="http://www.decatursurfclub.com/wp-content/uploads/2015/04/Decatur_Surf_Club_logo.png" width="978" alt="Pay early and SAVE for 2016!" /></figure>
+									<figure class="post-image"><meta itemprop="image" content="state/wp-content/uploads/2015/04/Decatur_Surf_Club_logo-150x150.png" /><img src="state/wp-content/uploads/2015/04/Decatur_Surf_Club_logo.png" width="978" alt="Pay early and SAVE for 2016!" /></figure>
 				
 				<p style="text-align: center;"><strong>SAVE $25 by paying before March 1st!</strong></p>
 <p style="text-align: center;">Family $375</p>
@@ -265,16 +265,16 @@ img.emoji {
 
 				<p class="back-top"><a href="#header">Back to top</a></p>
 			
-				<ul id="footer-nav" class="footer-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2554"><a href="http://www.decatursurfclub.com/#welcome">Welcome</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2550"><a href="http://www.decatursurfclub.com/membership/">Membership</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2551"><a href="http://www.decatursurfclub.com/#pools">Pools &#038; Waterslides</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2552"><a href="http://www.decatursurfclub.com/#parties">Parties</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2553"><a href="http://www.decatursurfclub.com/#swim-lessons">Swim Lessons</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2563"><a href="http://www.decatursurfclub.com/#grill">Grill</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2555"><a href="http://www.decatursurfclub.com/#contact">Contact</a></li>
+				<ul id="footer-nav" class="footer-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2554"><a href="state/#welcome">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2550"><a href="state/membership/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2551"><a href="state/#pools">Pools &#038; Waterslides</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2552"><a href="state/#parties">Parties</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2553"><a href="state/#swim-lessons">Swim Lessons</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2563"><a href="state/#grill">Grill</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2555"><a href="state/#contact">Contact</a></li>
 </ul>
 				<div class="footer-text clearfix">
-					<div class="one">&copy; <a href="http://www.decatursurfclub.com">Decatur Surf Club</a> 2016</div>					<div class="two">Designed & Developed by <a title="Designed and Developed by Goss Advertising" href="http://www.gossadvertising.com" target="_blank">Goss Advertising</a></div>				</div>
+					<div class="one">&copy; <a href="state">Decatur Surf Club</a> 2016</div>					<div class="two">Designed & Developed by <a title="Designed and Developed by Goss Advertising" href="http://www.gossadvertising.com" target="_blank">Goss Advertising</a></div>				</div>
 				<!-- /footer-text --> 
 							</footer>
 			<!-- /#footer --> 
@@ -288,47 +288,47 @@ img.emoji {
 <!-- wp_footer -->
 
 
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/plugins/shortcodes/js/tk-all-scripts.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/plugins/shortcodes/js/tk_shortcodes.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/js/waypoints.min.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/themify-builder/js/themify.builder.module.plugins.js?ver=2.4.1'></script>
+<script type='text/javascript' src='state/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='state/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='state/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='state/wp-content/plugins/shortcodes/js/tk-all-scripts.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/plugins/shortcodes/js/tk_shortcodes.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/js/waypoints.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/themify-builder/js/themify.builder.module.plugins.js?ver=2.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var tbLocalScript = {"isTouch":"","isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".themify_builder_content .themify_builder_row",".module_row",".builder-posts-wrap > .post.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.decatursurfclub.com\/wp-content\/themes\/parallax\/themify\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/themify-builder/js/themify.builder.script.js?ver=2.4.1'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/isotope.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/infinitescroll.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/backstretch.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/js/carousel.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/jquery.iframe-auto-height.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/themify-builder/js/themify.builder.script.js?ver=2.4.1'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/isotope.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/infinitescroll.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/backstretch.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/js/carousel.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/jquery.iframe-auto-height.js?ver=4.5.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var themifyScript = {"lightbox":{"lightboxSelector":".lightbox","lightboxOn":true,"lightboxContentImages":true,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"#pagewrap","isTouch":"false","loadingImg":"http:\/\/www.decatursurfclub.com\/wp-content\/themes\/parallax\/images\/loading.gif","maxPages":"1","autoInfinite":"auto","fixedHeader":"1","ajaxurl":"http:\/\/www.decatursurfclub.com\/wp-admin\/admin-ajax.php","load_nonce":"87b17c5733","transitionEffect":"1","transitionSetup":{"selectors":[".section-post .section-content > .shortcode.list-posts",".section-post .section-content > .shortcode.team",".section-post .section-content > .shortcode.portfolio",".section-post .section-content > .shortcode.highlight",".section-post .module-portfolio",".section-post .module-highlight",".shortcode.col4-3",".shortcode.col4-2",".shortcode.col4-1",".shortcode.col3-2",".shortcode.col3-1",".shortcode.col2-1","body:not(.query-section) .loops-wrapper.list-post","body:not(.query-section) .loops-wrapper.grid4","body:not(.query-section) .loops-wrapper.grid3","body:not(.query-section) .loops-wrapper.grid2","body:not(.query-section) .loops-wrapper.grid2-thumb"],"effect":"fly-in"},"scrollingEffect":"1","scrollingEffectType":"effect2","scrollingEasing":"sqrt","chart":{"trackColor":"rgba(0,0,0,.1)","scaleColor":false,"lineCap":"butt","rotate":0,"size":175,"lineWidth":3,"animate":2000},"headerScroll":{"adjust":0,"ratio":-0.3}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/themify.script.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/js/themify.gallery.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/js/lightbox.js?ver=2.4.1'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/themify.script.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/js/themify.gallery.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/js/lightbox.js?ver=2.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var themifyVars = {"play":"yes","autoplay":"5","speed":"500","wrap":"yes"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/themify.gallery.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/themify.gallery.js?ver=4.5.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var themifySectionVars = {"play":"yes","autoplay":"5","speed":"500","wrap":"yes"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/js/themify.slidersection.js?ver=4.5.2'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/themes/parallax/themify/themify-builder/js/jquery.easy-pie-chart.js?ver=2.4.1'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.5'></script>
-<script type='text/javascript' src='http://www.decatursurfclub.com/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/js/themify.slidersection.js?ver=4.5.2'></script>
+<script type='text/javascript' src='state/wp-content/themes/parallax/themify/themify-builder/js/jquery.easy-pie-chart.js?ver=2.4.1'></script>
+<script type='text/javascript' src='state/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.5'></script>
+<script type='text/javascript' src='state/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
 			<script type="text/javascript">
 				if ( 'object' === typeof tbLocalScript ) {
 					tbLocalScript.transitionSelectors = ".js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row, .js.csstransitions .module_row, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column";
