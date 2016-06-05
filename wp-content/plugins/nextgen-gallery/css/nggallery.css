@@ -7,12 +7,12 @@
 		
                 
         Sorry, not found! - Decatur Surf Club</title>
-<link rel="shortcut icon" type="image/x-icon" href="wp-content/themes/SurfClub/favicon.ico">
-<link rel="stylesheet" href="wp-content/themes/SurfClub/style.css" type="text/css" media="screen,projection" /> 
+<link rel="shortcut icon" type="image/x-icon" href="http://www.decatursurfclub.com/wp-content/themes/SurfClub/favicon.ico">
+<link rel="stylesheet" href="http://www.decatursurfclub.com/wp-content/themes/SurfClub/style.css" type="text/css" media="screen,projection" /> 
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="feed/" />
 
 
-<link rel="image_src" href="wp-content/themes/SurfClub/images/logo.jpg" />
+<link rel="image_src" href="http://www.decatursurfclub.com/wp-content/themes/SurfClub/images/logo.jpg" />
 
 <link rel='stylesheet' id='nextgen_gallery_related_images-css'  href='wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.7.1' type='text/css' media='all' />
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
@@ -222,7 +222,7 @@ display:none;
     <div class="sc_content_wrap">
     
     	<div class="sc_content">
-<div class="sc_rotate"><a href="wp-content/uploads/2011/03/DecaturSurfClubApplication.pdf"><img border="0" src="wp-content/themes/SurfClub/images/new_membership.jpg" alt="New Membership Info - Decatur Surf Club" /></a></div>
+<div class="sc_rotate"><a href="http://www.decatursurfclub.com/wp-content/uploads/2011/03/DecaturSurfClubApplication.pdf"><img border="0" src="wp-content/themes/SurfClub/images/new_membership.jpg" alt="New Membership Info - Decatur Surf Club" /></a></div>
             
 <div class="sc_c_left">
     <h1>Welcome to the Decatur Surf Club</h1>
@@ -244,7 +244,7 @@ display:none;
             <div class="sc_c_right">
                 <ul class="sc_blue_box">
                     <li style="font-weight:bold; margin-top: 20px;">JUMP RIGHT IN</li>
-                    <li><a target="_blank" href="wp-content/uploads/2011/03/membershipapp_23feb12.pdf">download membership application &raquo;</a></li>                    
+                    <li><a target="_blank" href="http://www.decatursurfclub.com/wp-content/uploads/2011/03/membershipapp_23feb12.pdf">download membership application &raquo;</a></li>                    
                     <li><a href="calendar-of-events/">check our calendar &raquo;</a></li>
                     <li><a href="swim-lessons/">swim lessons &raquo;</a></li>
 <li><a href="gallery/">photo gallery &raquo;</a></li>
