@@ -9,7 +9,7 @@
         Sorry, not found! - Decatur Surf Club</title>
 <link rel="shortcut icon" type="image/x-icon" href="wp-content/themes/SurfClub/favicon.ico">
 <link rel="stylesheet" href="wp-content/themes/SurfClub/style.css" type="text/css" media="screen,projection" /> 
-<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="state/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="feed/" />
 
 
 <link rel="image_src" href="wp-content/themes/SurfClub/images/logo.jpg" />
@@ -24,7 +24,7 @@ var photocrati_ajax = {"url":"http:\/\/www.decatursurfclub.com\/photocrati_ajax"
 </script>
 <script type='text/javascript' src='wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.7.1'></script>
 <script type='text/javascript' src='wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=3.7.1'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="state/xmlrpc.php?rsd" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 3.7.1" />
 <style type="text/css">
@@ -201,22 +201,22 @@ display:none;
 <div class="sc_main_container">
 
 	<div class="sc_header">
-    	<div class="sc_logo"><a href="state/"><img border="0" src="wp-content/themes/SurfClub/images/logo.jpg" alt="Decatur Surf Club" /></a></div>
-        <div class="sc_hdr_home"><a href="state/">home</a></div>
+    	<div class="sc_logo"><a href=""><img border="0" src="wp-content/themes/SurfClub/images/logo.jpg" alt="Decatur Surf Club" /></a></div>
+        <div class="sc_hdr_home"><a href="">home</a></div>
     </div>
             
     <ul class="sc_nav">        
-        <li style="margin-left: 100px;"><a href="state/membership/">membership</a></li>
+        <li style="margin-left: 100px;"><a href="membership/">membership</a></li>
         <li>|</li>
-        <li><a href="state/location/">location</a></li>
+        <li><a href="location/">location</a></li>
         <li>|</li>
-        <li><a href="state/our-swimming-pools/">our pools</a></li>
+        <li><a href="our-swimming-pools/">our pools</a></li>
         <li>|</li>
-        <li><a href="state/pool-parties/">pool parties</a></li>
+        <li><a href="pool-parties/">pool parties</a></li>
         <li>|</li>
-        <li><a href="state/contact-us/">contact us</a></li>
+        <li><a href="contact-us/">contact us</a></li>
 <li>|</li>
-        <li><a href="state/waterslides/">waterslides!</a></li>               
+        <li><a href="waterslides/">waterslides!</a></li>               
     </ul>
     
     <div class="sc_content_wrap">
@@ -237,7 +237,7 @@ display:none;
         </div>
     </div>
     <div class="sc_gallery">
-        <a href="state/gallery/"><img border="0" src="wp-content/themes/SurfClub/images/gallery_home.jpg" alt="decatur surf club photo gallery" /></a>
+        <a href="gallery/"><img border="0" src="wp-content/themes/SurfClub/images/gallery_home.jpg" alt="decatur surf club photo gallery" /></a>
     </div>
 </div>
 
@@ -245,9 +245,9 @@ display:none;
                 <ul class="sc_blue_box">
                     <li style="font-weight:bold; margin-top: 20px;">JUMP RIGHT IN</li>
                     <li><a target="_blank" href="wp-content/uploads/2011/03/membershipapp_23feb12.pdf">download membership application &raquo;</a></li>                    
-                    <li><a href="state/calendar-of-events/">check our calendar &raquo;</a></li>
-                    <li><a href="state/swim-lessons/">swim lessons &raquo;</a></li>
-<li><a href="state/gallery/">photo gallery &raquo;</a></li>
+                    <li><a href="calendar-of-events/">check our calendar &raquo;</a></li>
+                    <li><a href="swim-lessons/">swim lessons &raquo;</a></li>
+<li><a href="gallery/">photo gallery &raquo;</a></li>
                 </ul>
                 <ul class="sc_blue_box">
                     <li style="font-weight:bold; margin-top: 20px;">OPEN MEMORIAL DAY WEEKEND</li>
