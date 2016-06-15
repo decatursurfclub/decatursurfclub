@@ -7,12 +7,12 @@
 		
                 
         Sorry, not found! - Decatur Surf Club</title>
-<link rel="shortcut icon" type="image/x-icon" href="http://www.decatursurfclub.com/wp-content/themes/SurfClub/favicon.ico">
-<link rel="stylesheet" href="http://www.decatursurfclub.com/wp-content/themes/SurfClub/style.css" type="text/css" media="screen,projection" /> 
+<link rel="shortcut icon" type="image/x-icon" href="http://www.decatursurfclub.com/wp-content/themes/surfclub/favicon.ico">
+<link rel="stylesheet" href="http://www.decatursurfclub.com/wp-content/themes/surfclub/style.css" type="text/css" media="screen,projection" /> 
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="feed/" />
 
 
-<link rel="image_src" href="http://www.decatursurfclub.com/wp-content/themes/SurfClub/images/logo.jpg" />
+<link rel="image_src" href="http://www.decatursurfclub.com/wp-content/themes/surfclub/images/logo.jpg" />
 
 <link rel='stylesheet' id='nextgen_gallery_related_images-css'  href='wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.7.1' type='text/css' media='all' />
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
@@ -201,7 +201,7 @@ display:none;
 <div class="sc_main_container">
 
 	<div class="sc_header">
-    	<div class="sc_logo"><a href=""><img border="0" src="wp-content/themes/SurfClub/images/logo.jpg" alt="Decatur Surf Club" /></a></div>
+    	<div class="sc_logo"><a href=""><img border="0" src="wp-content/themes/surfclub/images/logo.jpg" alt="Decatur Surf Club" /></a></div>
         <div class="sc_hdr_home"><a href="">home</a></div>
     </div>
             
@@ -222,7 +222,7 @@ display:none;
     <div class="sc_content_wrap">
     
     	<div class="sc_content">
-<div class="sc_rotate"><a href="http://www.decatursurfclub.com/wp-content/uploads/2011/03/DecaturSurfClubApplication.pdf"><img border="0" src="wp-content/themes/SurfClub/images/new_membership.jpg" alt="New Membership Info - Decatur Surf Club" /></a></div>
+<div class="sc_rotate"><a href="http://www.decatursurfclub.com/wp-content/uploads/2011/03/DecaturSurfClubApplication.pdf"><img border="0" src="wp-content/themes/surfclub/images/new_membership.jpg" alt="New Membership Info - Decatur Surf Club" /></a></div>
             
 <div class="sc_c_left">
     <h1>Welcome to the Decatur Surf Club</h1>
@@ -233,11 +233,11 @@ display:none;
         <div class="sc_get_latest">
             <h2>GET THE LATEST!</h2>
             <p>Receive all the latest news, updates and specials.</p>
-            <p><a target="_blank" href="http://www.facebook.com/home.php#!/pages/Decatur-Surf-Club/154666227920638"><img border="0" src="wp-content/themes/SurfClub/images/facebook.jpg" alt="find decatur surfclub on facebook" /></a></p>
+            <p><a target="_blank" href="http://www.facebook.com/home.php#!/pages/Decatur-Surf-Club/154666227920638"><img border="0" src="wp-content/themes/surfclub/images/facebook.jpg" alt="find decatur surfclub on facebook" /></a></p>
         </div>
     </div>
     <div class="sc_gallery">
-        <a href="gallery/"><img border="0" src="wp-content/themes/SurfClub/images/gallery_home.jpg" alt="decatur surf club photo gallery" /></a>
+        <a href="gallery/"><img border="0" src="wp-content/themes/surfclub/images/gallery_home.jpg" alt="decatur surf club photo gallery" /></a>
     </div>
 </div>
 
