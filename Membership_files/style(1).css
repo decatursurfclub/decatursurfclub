@@ -1,0 +1,89 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 20:37:20 May 29, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:20:31 Sep 11, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+Theme Name: surfclub
+Template: parallax
+Author: Child Theme Configurator
+Version: 1.0.1429246335
+Updated: 2015-04-16 23:52:15
+*/
+
+@charset "UTF-8";
+
+#site-description {
+  display: none;
+}
+
+.social-widget {
+  display: none;
+}
+
+#header #searchform {
+  display: none;
+}
+
+#nav-bar {
+  padding: 20px;
+}
+
+.back-top {
+  font: normal 1.4em Pacifico;
+  text-transform: none;
+}
+
+#site-logo {
+  margin: 0 0 120px;
+}
+
+.big-video-wrap {
+  display: none;
+}
+
+.home #headerwrap {
+ height: 400px;
+}
+
+.home #header {
+  height: 400px;
+}
+
+#header {
+  height: 400px;
+}
+
+h3 {
+  padding: 0 0 1em;
+}
+
+.widgettitle {
+  font: 1.1em/1.62em "Oswald", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.module .list-thumb-image .post-title {
+  margin-top: 10px;
+}
+
+a.shortcode.button.large {
+  font-weight: normal;
+}
+
+#footerwrap {
+  background-color: #51a8b1;
+}
+
+media="all"
+@media screen and (max-width: 768px)
+#pagewrap nav {
+  margin-top: -20px;
+}
