@@ -87,9 +87,11 @@ var ThemifyGallery, FixedHeader, ThemifyParallax;
 					}
 
 					// close mobile menu
+					/*
 					if($(window).width() <= 768 && $('#main-nav').is(':visible')){
 						$('#menu-icon').trigger('click');
 					}
+					*/
 				});
 
 				// change hash url
